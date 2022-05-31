@@ -240,7 +240,18 @@ input[type=checkbox], input[type=radio]  {
 	margin-left: 300px;
 }
 
+footer {
+    margin-top: 50px;
+    background-color: rgba(57, 33, 33, 0.33);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 
+footer p {
+    font-size: 10px;
+    color: #CECECE;
+    text-align: center;
+}
 
   
   
